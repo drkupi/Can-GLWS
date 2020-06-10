@@ -1,4 +1,5 @@
 # Can-GLWS
+[![DOI](https://zenodo.org/badge/271394958.svg)](https://zenodo.org/badge/latestdoi/271394958)
 
 This repository contains the code for the [Canadian Great Lakes Weather Data Service for SWAT (Can-GLWS) application](https://www.uoguelph.ca/watershed/glws/).
 
