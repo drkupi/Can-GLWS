@@ -15,7 +15,7 @@ Can-GLWS is developed using the [R Shiny](https://shiny.rstudio.com/) web framew
 Can-GLWS is currently deployed on a [UoG Sever](https://www.uoguelph.ca/watershed/glws/). The large historical and climate change datasets (in SWAT-ready format) being shared with the application are hosted on the server.   
 
 ## Authors
-Dr. Narayan Shrestha, Dr. Taimoor Akhtar, Uttam Ghimire, Dr. Prasad Daggupati, Dr. Ramesh Rudra, Dr. Pradeep Goel and Dr. Rituraj Shukla, UNIVERSITY OF GUELPH & MINISTRY OF ENVIRONMENT CANADA.
+Dr. Narayan Shrestha, Dr. Taimoor Akhtar, Uttam Ghimire, Dr. Prasad Daggupati, Dr. Ramesh Rudra, Dr. Pradeep Goel and Dr. Rituraj Shukla, UNIVERSITY OF GUELPH & ONTARIO MINISTRY OF THE ENVIRONMENT, CONSERVATION & PARKS.
 
 The shiny application is developed by Dr. Taimoor Akhtar.
 
